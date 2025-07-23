@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8",SOD-123_L2.8-W1.8-LS3.7-RD-1,8,1N4148W_C917030,C917030
+FPC1,FPC-SMD_AFC01-S06FCC-00,1,AFC01-S06FCC-00,C262262
+"SW1, SW2",mouse-switch-cluster,2,~,

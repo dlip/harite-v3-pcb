@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "xiao-esp32-s3-plus-smd")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/xiao-esp32-s3-plus-smd.kicad_sym")(options "")(descr ""))
+  (lib (name "D2FC_F_7N")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/D2FC_F_7N.kicad_sym")(options "")(descr ""))
+  (lib (name "kailh-mute-switch")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/kailh-mute-switch.kicad_sym")(options "")(descr ""))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "${KIPRJMOD}/libraries/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+)

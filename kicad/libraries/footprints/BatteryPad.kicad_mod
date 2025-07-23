@@ -1,0 +1,64 @@
+(footprint "BatteryPad"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J6"
+		(at 0 -1.778 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "fa8722c0-abb0-44e6-91fd-0168b936605a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Value" "D2"
+		(at 0 2.2 0)
+		(layer "F.SilkS")
+		(uuid "550654ac-04bd-4e1c-8007-c56f5f286a8e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.16)
+				(bold yes)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb4cafa1-c851-41ae-9362-d888533b557c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5fc34c31-4047-4940-b56c-416ea6bceda1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "1" thru_hole circle
+		(at 0 0 270)
+		(size 2.5 2.5)
+		(drill 1.25)
+		(layers "*.Cu" "*.SilkS" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "96654f3a-1390-4502-a325-017647e97ee2")
+	)
+	(embedded_fonts no)
+)
