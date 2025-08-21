@@ -23,16 +23,16 @@ You can also get them to assemble the PCB (other than the mouse switches and Xia
 
 ### Main PCB and Thumb Cluster Components
 
-| Name                                                           | Qty | Link                                                                                              |
-| -------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
-| Seeed Studio XIAO nRF52840 Plus                                | 2   | <https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html>                         |
-| 1N4148W diodes                                                 | 48  | <https://lcsc.com/product-detail/Switching-Diodes_JSMSEMI-1N4148W_C917030.html>                   |
-| JUSHUO AFC01-S06FCC-00                                         | 4   | <https://www.lcsc.com/product-detail/Others_JUSHUO-AFC01-S06FCC-00_C262262.html>                  |
-| JUSHUO AFC01-S12FCC-00                                         | 2   | <https://www.lcsc.com/product-detail/Others_JUSHUO-AFC01-S12FCC-00_C262268.html>                  |
-| msk12c02 power switch                                          | 2   | <https://lcsc.com/product-detail/Slide-Switches_SHOU-HAN-MSK12C02_C431540.html>                   |
-| 6 pin FFC cable type-B (one side flipped) 0.5 pitch 6cm length | 2   | <https://www.aliexpress.com/item/10000013182312.html>                                             |
-| 301230 3.7v 110mAh Lithium battery (If wireless)               | 2   | <https://www.aliexpress.com/item/4000174322578.html>                                              |
-| HRO TYPE-C-31-M-12 USB C female ports (If wired)               | 2   | <https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html> |
+| Name                                                                              | Qty | Link                                                                                              |
+| --------------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------- |
+| Seeed Studio XIAO nRF52840 Plus                                                   | 2   | <https://www.seeedstudio.com/Seeed-Studio-XIAO-nRF52840-Plus-p-6359.html>                         |
+| 1N4148W diodes                                                                    | 48  | <https://lcsc.com/product-detail/Switching-Diodes_JSMSEMI-1N4148W_C917030.html>                   |
+| JUSHUO AFC01-S06FCC-00                                                            | 4   | <https://www.lcsc.com/product-detail/Others_JUSHUO-AFC01-S06FCC-00_C262262.html>                  |
+| JUSHUO AFC01-S12FCC-00                                                            | 2   | <https://www.lcsc.com/product-detail/Others_JUSHUO-AFC01-S12FCC-00_C262268.html>                  |
+| msk12c02 power switch                                                             | 2   | <https://lcsc.com/product-detail/Slide-Switches_SHOU-HAN-MSK12C02_C431540.html>                   |
+| 6 pin FFC cable 0.5 pitch 6cm length type-A (forward direction/same side contact) | 2   | <https://www.aliexpress.com/item/10000013182312.html>                                             |
+| 301230 3.7v 110mAh Lithium battery (If wireless)                                  | 2   | <https://www.aliexpress.com/item/4000174322578.html>                                              |
+| HRO TYPE-C-31-M-12 USB C female ports (If wired)                                  | 2   | <https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html> |
 
 ### Main PCB and Thumb Cluster 3D Printed Parts
 
